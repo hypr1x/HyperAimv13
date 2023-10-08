@@ -1,0 +1,10 @@
+opencv-python
+ultralytics
+mss
+numpy
+pystyle
+termcolor
+colorama
+pywin32
+pynput
+pandas
